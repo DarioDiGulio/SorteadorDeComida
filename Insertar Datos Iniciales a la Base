@@ -48,6 +48,14 @@ INSERT INTO PASOS (ENUNCIADO, ORDEN, COMIDA_ID) VALUES ('Poner las papas a hervi
 INSERT INTO PASOS (ENUNCIADO, ORDEN, COMIDA_ID) VALUES ('Poner las milanesas con el aceite en una fuente en el horno a máxima temperatura.', 4, 1)
 INSERT INTO PASOS (ENUNCIADO, ORDEN, COMIDA_ID) VALUES ('Pisar las papas y mezclarlas con la leche, (OPCIONAL) la nuez moscada y el roquefort.', 5, 1)
 
+INSERT INTO PASOS (ENUNCIADO, ORDEN, COMIDA_ID) VALUES ('Hervir las verduras (OPCIONAL espinaca o acelga) en agua con sal a gusto.', 1, 2)
+INSERT INTO PASOS (ENUNCIADO, ORDEN, COMIDA_ID) VALUES ('Poner a hervir la leche con sal a gusto e incorporar la maicena integrando para que no se generen grumos.', 2, 2)
+INSERT INTO PASOS (ENUNCIADO, ORDEN, COMIDA_ID) VALUES ('Condimentar con nuez moscada la salsa blanca y cuando espese, retirar del fuego.', 3, 2)
+INSERT INTO PASOS (ENUNCIADO, ORDEN, COMIDA_ID) VALUES ('Cuando hiervan las verduras, cortarlas en trozos más pequeños y mesclaros con la salsa blanca.', 4, 2)
+INSERT INTO PASOS (ENUNCIADO, ORDEN, COMIDA_ID) VALUES ('Poner una de las tapas de la tarta con aceite en la fuente, y poner los huevos batidos adentro.', 5, 2)
+INSERT INTO PASOS (ENUNCIADO, ORDEN, COMIDA_ID) VALUES ('Incorporar la preparación con las verduras y la salsa blanca dentro de la tarta y poner la segunda tapa.', 6, 2)
+INSERT INTO PASOS (ENUNCIADO, ORDEN, COMIDA_ID) VALUES ('Pinchar la tapa superior para que no se infle demasiado y meter al horno a máxima temperatura hasta que esté cocida.', 7, 2)
+
 INSERT INTO PASOS (ENUNCIADO, ORDEN, COMIDA_ID) VALUES ('Separar las yemas de las claras y volcar las yemas en un recipiente.', 1, 3)
 INSERT INTO PASOS (ENUNCIADO, ORDEN, COMIDA_ID) VALUES ('Colocar todo el azúcar.', 2, 3)
 INSERT INTO PASOS (ENUNCIADO, ORDEN, COMIDA_ID) VALUES ('Batir hasta conseguir una consistencia cremosa.', 3, 3)
